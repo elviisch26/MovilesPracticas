@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941718438502",
+    "project_id": "proyecto-repartir-52daa",
+    "storage_bucket": "proyecto-repartir-52daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941718438502:android:165ffea6a7f901aac523a7",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9SrvV2JQlS-LxeBJYJGN-Sgtgo2rY6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
